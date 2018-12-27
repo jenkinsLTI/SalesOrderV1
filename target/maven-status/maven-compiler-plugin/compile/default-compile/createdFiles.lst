@@ -1,0 +1,8 @@
+model\RegisterBean.class
+model\Authenticator.class
+controller\LoginController.class
+controller\LogoutServlet.class
+controller\RegisterServlet.class
+DBConnection\DBConnect.class
+controller\ViewController.class
+model\User.class
